@@ -29,7 +29,7 @@ Team Members:
 - Shivaj Singh
 
 ## Team Collaboration
-This project was built collaboratively during a hackathon with contributions from team members and the use of AI-assisted development tools.
+This project was developed as part of a college hackathon collaboration with contributions from team members and the use of AI-assisted development tools.
 
 ## Purpose
 The purpose of this project was to explore:
