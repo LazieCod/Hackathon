@@ -24,9 +24,9 @@ The platform focuses on creating a simple and organized interface for online lea
 Team Name: Soft Echo
 
 Team Members:
-- Aarush Chandra - Roll No. 2410110495
-- Kritika Singh - Roll No. 2410110567
-- Shivaj Singh - Roll No. 2410110617
+- Aarush Chandra
+- Kritika Singh
+- Shivaj Singh
 
 ## Team Collaboration
 This project was built collaboratively during a hackathon with contributions from team members and the use of AI-assisted development tools.
